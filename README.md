@@ -22,6 +22,7 @@
     <img alt="Lorenzo-HTML" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
     <img alt="Lorenzo-CSS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img alt="Lorenzo-JQuery" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
+    <img alt="Lorenzo-SQL" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
 </div>
 
 ##
