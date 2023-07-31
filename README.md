@@ -3,7 +3,7 @@
 <div display="inline-block">
     <!--<p>📌 Lajeado, Rio Grande do Sul, Brazil</p>-->
     <p>💼 FullStack Developer | Ciamed Distribuidora de Medicamentos </p>
-    <p>📖 I'm learning Jasper Reports</p>
+    <p>📖 I'm learning React</p>
     <p>👨‍💻 Studying <strong>Análise e Desenvolvimento de Sistemas EAD</strong> | <a href="https://www.univates.br/">Univates</a></p>
 </div>
 
