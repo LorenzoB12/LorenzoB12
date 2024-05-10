@@ -19,11 +19,11 @@
     <img alt="Lorenzo-Java" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img alt="Lorenzo-Spring" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
     <img alt="Lorenzo-JS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Lorenzo-HTML" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-    <img alt="Lorenzo-CSS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    <img alt="Lorenzo-JQuery" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
     <img alt="Lorenzo-Typescript" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img alt="Lorenzo-React" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+    <img alt="Lorenzo-HTML" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+    <img alt="Lorenzo-CSS" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+    <img alt="Lorenzo-JQuery" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">    
     <img alt="Lorenzo-SQL" align="center" width="40" height="30" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
 </div>
 
