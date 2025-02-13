@@ -9,11 +9,6 @@
 
 ##
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorenzoB12&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoB12"/>
-</div>
-
 <div style="display: inline-block" align="center"><br>
     <h3>Technologies</h3>
     <img alt="Lorenzo-Java" align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
